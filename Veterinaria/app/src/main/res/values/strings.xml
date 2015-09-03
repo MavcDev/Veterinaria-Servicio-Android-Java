@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Veterinaria</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registrar_mascota">Mascota</string>
+    <string name="ID">ID</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Especie">Especie</string>
+    <string name="Raza">Raza</string>
+    <string name="Edad">Edad</string>
+    <string name="Color">Color</string>
+    <string name="Guardar">Guardar</string>
+    <string name="title_activity_registrar_propietario">Propietario</string>
+    <string name="Documento">Documento</string>
+    <string name="Direccion">Direccion</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Correo">Correo</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_menu_mascota">Menu Mascota</string>
+    <string name="title_activity_menu_propietario">Menu Propietario</string>
+    <string name="title_activity_list_mascota">Mascotas</string>
+    <string name="Buscar">Buscar</string>
+    <string name="title_activity_list_propietario">Propietarios</string>
+    <string name="title_activity_personal">Personal</string>
+    <string name="title_activity_list_personal">Personal</string>
+    <string name="title_activity_historial">Historial</string>
+    <string name="Peso">Peso</string>
+    <string name="Diagnostico">Diagnostico</string>
+    <string name="Anamesia">Anamesia</string>
+    <string name="Tratamiento">Tratamiento</string>
+    <string name="Fecha">Fecha</string>
+    <string name="Hora">Hora</string>
+    <string name="Vacuna">Vacuna</string>
+    <string name="title_activity_list_historial">Historiales</string>
+    <string name="Personal">Personal</string>
+    <string name="Historial">Historial</string>
+    <string name="title_activity_menu_personal">Menu Personal</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Modificar">Modificar</string>
+    <string name="Ver">Ver</string>
+    <string name="title_activity_menu_historial">Menu Historial</string>
+</resources>

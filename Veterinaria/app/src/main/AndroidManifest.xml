@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.veterinaria" >
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Login"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Mascota"
+            android:label="@string/title_activity_registrar_mascota" >
+        </activity>
+        <activity
+            android:name=".Propietario"
+            android:label="@string/title_activity_registrar_propietario" >
+        </activity>
+        <activity
+            android:name=".MenuVeterinaria"
+            android:label="@string/title_activity_menu" >
+        </activity>
+        <activity
+            android:name=".MenuMascota"
+            android:label="@string/title_activity_menu_mascota" >
+        </activity>
+        <activity
+            android:name=".MenuPropietario"
+            android:label="@string/title_activity_menu_propietario" >
+        </activity>
+        <activity
+            android:name=".ListMascota"
+            android:label="@string/title_activity_list_mascota" >
+        </activity>
+        <activity
+            android:name=".ListPropietario"
+            android:label="@string/title_activity_list_propietario" >
+        </activity>
+        <activity
+            android:name=".Personal"
+            android:label="@string/title_activity_personal" >
+        </activity>
+        <activity
+            android:name=".ListPersonal"
+            android:label="@string/title_activity_list_personal" >
+        </activity>
+        <activity
+            android:name=".Historial"
+            android:label="@string/title_activity_historial" >
+        </activity>
+        <activity
+            android:name=".ListHistorial"
+            android:label="@string/title_activity_list_historial" >
+        </activity>
+        <activity
+            android:name=".MenuPersonal"
+            android:label="@string/title_activity_menu_personal" >
+        </activity>
+        <activity
+            android:name=".MenuHistorial"
+            android:label="@string/title_activity_menu_historial" >
+        </activity>
+    </application>
+
+</manifest>
